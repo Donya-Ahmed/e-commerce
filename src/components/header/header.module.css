@@ -1,0 +1,6 @@
+.bgClass{
+    background-image: url('../../assets/banner-4.jpeg');
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
